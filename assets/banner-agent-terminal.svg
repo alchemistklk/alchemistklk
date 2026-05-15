@@ -1,0 +1,20 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Caprika agent terminal banner</title>
+  <desc id="desc">A terminal-inspired GitHub profile banner for Caprika.</desc>
+  <rect width="1600" height="500" fill="#050505"/>
+  <rect x="90" y="72" width="1420" height="356" rx="18" fill="#0B0F0E" stroke="#26322D" stroke-width="2"/>
+  <circle cx="126" cy="106" r="8" fill="#F87171"/>
+  <circle cx="154" cy="106" r="8" fill="#FBBF24"/>
+  <circle cx="182" cy="106" r="8" fill="#34D399"/>
+  <text x="120" y="174" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30">$ whoami</text>
+  <text x="120" y="252" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="86" font-weight="800">Caprika</text>
+  <text x="124" y="308" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28">agent-native developer / local-first AI tools</text>
+  <text x="124" y="358" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">open-design :: skills :: daemon :: artifacts :: review</text>
+  <g transform="translate(1060 145)">
+    <rect x="0" y="0" width="310" height="205" rx="10" fill="#07120D" stroke="#1F6F43" stroke-width="2"/>
+    <text x="26" y="50" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">agent.status</text>
+    <text x="26" y="92" fill="#E5E7EB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">runtime: local</text>
+    <text x="26" y="126" fill="#E5E7EB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">state: files</text>
+    <text x="26" y="160" fill="#E5E7EB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">output: PR</text>
+  </g>
+</svg>
