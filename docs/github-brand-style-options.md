@@ -10,8 +10,8 @@ Why it fits:
 
 - It keeps the name fully visible and readable on GitHub.
 - It feels technical without becoming a generic hacker terminal.
-- It uses the right-side space for a runtime map instead of accidental cropping.
-- It connects directly to the current positioning: agent skills, local runtime, filesystem artifacts, reviewable software.
+- It uses the right-side space for quiet code-review texture instead of explanatory diagrams.
+- It connects directly to the current positioning without writing every concept into the artwork.
 
 ## Alternative: Agent Terminal
 

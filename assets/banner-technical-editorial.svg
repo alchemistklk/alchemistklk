@@ -7,11 +7,6 @@
       <stop offset="0.62" stop-color="#0A0D10"/>
       <stop offset="1" stop-color="#101419"/>
     </linearGradient>
-    <linearGradient id="line" x1="840" y1="155" x2="1415" y2="350" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7DD3FC"/>
-      <stop offset="0.5" stop-color="#34D399"/>
-      <stop offset="1" stop-color="#F59E0B"/>
-    </linearGradient>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
       <path d="M48 0H0V48" stroke="#1C242B" stroke-width="1"/>
     </pattern>
@@ -24,21 +19,16 @@
   <text x="142" y="176" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" letter-spacing="0">github://alchemistklk</text>
   <text x="138" y="282" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="104" font-weight="800" letter-spacing="0">Caprika</text>
   <text x="144" y="336" fill="#C9D1D9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="32" letter-spacing="0">Agent-native developer</text>
-  <text x="144" y="378" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" letter-spacing="0">skills -> runtime -> artifacts -> review</text>
+  <text x="144" y="378" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" letter-spacing="0">local-first AI tools / open-source systems</text>
 
   <g transform="translate(842 124)">
-    <rect x="0" y="0" width="610" height="252" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
-    <text x="32" y="52" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">runtime map</text>
-    <circle cx="92" cy="132" r="42" fill="#111827" stroke="#7DD3FC" stroke-width="2"/>
-    <circle cx="304" cy="132" r="42" fill="#111827" stroke="#34D399" stroke-width="2"/>
-    <circle cx="516" cy="132" r="42" fill="#111827" stroke="#F59E0B" stroke-width="2"/>
-    <path d="M134 132H262M346 132H474" stroke="url(#line)" stroke-width="3"/>
-    <path d="M246 118L262 132L246 146M458 118L474 132L458 146" stroke="#C9D1D9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="51" y="139" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">SKILL</text>
-    <text x="263" y="139" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">DAEMON</text>
-    <text x="476" y="139" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">ARTIFACT</text>
-    <text x="54" y="206" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">DESIGN.md</text>
-    <text x="256" y="206" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">local-first</text>
-    <text x="462" y="206" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">reviewable</text>
+    <rect x="0" y="0" width="610" height="252" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="2" opacity="0.92"/>
+    <path d="M38 62H306M38 104H512M38 146H446M38 188H562" stroke="#26313A" stroke-width="12" stroke-linecap="round"/>
+    <path d="M38 62H184M38 104H248M38 146H142M38 188H318" stroke="#7DD3FC" stroke-width="12" stroke-linecap="round" opacity="0.82"/>
+    <rect x="438" y="34" width="126" height="42" rx="21" fill="#111827" stroke="#30363D"/>
+    <text x="470" y="61" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">main</text>
+    <circle cx="526" cy="55" r="6" fill="#34D399"/>
+    <rect x="392" y="170" width="172" height="42" rx="21" fill="#111827" stroke="#30363D"/>
+    <text x="426" y="197" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">open source</text>
   </g>
 </svg>
