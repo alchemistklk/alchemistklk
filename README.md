@@ -4,23 +4,27 @@
 
 # Caprika
 
-I build and explain practical AI-agent workflows, local-first tools, and real engineering systems.
+Agent-native developer building local-first AI tools, design runtimes, and open-source engineering workflows.
 
-## Most Recommended: Open Design
+```text
+agent skills -> local runtime -> filesystem artifacts -> reviewable software
+```
+
+## Flagship Project: Open Design
 
 [**Explore Open Design ->**](https://github.com/nexu-io/open-design)
 
-Open Design is an open-source, local-first, agent-native design runtime that turns coding-agent CLIs into a design engine.
+Open Design is the clearest example of the kind of software I care about: open-source, local-first, agent-native systems that turn coding-agent CLIs into real product workflows.
 
-Why I recommend it:
+Technical reasons it matters:
 
-- It pairs a local daemon with a web UI, so design work can run against real files and local agent tools.
-- It uses portable `DESIGN.md` and `SKILL.md` primitives, making design systems and workflows reusable instead of trapped in one canvas.
-- It is artifact-first: the agent produces real design outputs, then routes them through preview, critique, validation, and export.
+- Local daemon + web UI: the agent works against real project files instead of a closed cloud canvas.
+- Portable primitives: `DESIGN.md` and `SKILL.md` make design systems and workflows inspectable, versionable, and reusable.
+- Artifact-first loop: the agent emits real outputs, then routes them through preview, critique, validation, and export.
 
-If you are interested in AI-native product design, Open Design is the project I would start with.
+If you want to understand my GitHub identity, start here: I am interested in the infrastructure layer where agents, files, tools, and product interfaces meet.
 
-## Other Projects I Work Around
+## Supporting Projects
 
 | Project | Why it matters |
 |---|---|
@@ -28,25 +32,26 @@ If you are interested in AI-native product design, Open Design is the project I 
 | [Refly Skills](https://github.com/refly-ai/refly-skills) | Practical skill examples and workflow patterns for agent-powered work. |
 | [Nexu](https://github.com/nexu-io/nexu) | Local-first desktop bridge for bringing agents into real communication channels. |
 
-## Current Explorations
+## Technical Focus
 
-- AI coding agents: Codex, Claude Code, Cursor Agent, OpenClaw, and MioClaw.
-- Local-first agent tooling: filesystem-backed workflows, desktop runtimes, and personal automation.
-- Design and media workflows: prompt systems, artifact generation, and short-form production.
-- Engineering notes: deployment, infrastructure, code review, and build-in-public lessons.
+- Agent-native application architecture: CLI agents, local daemons, tool adapters, and UI feedback loops.
+- Local-first runtimes: filesystem-backed state, desktop sidecars, SQLite persistence, and reproducible workspaces.
+- Skill systems: reusable instructions, design systems, prompt protocols, and validation gates.
+- Engineering operations: code review, deployment, issue triage, contributor loops, and production debugging.
 
-## Content Notes
+## GitHub Is My Technical Surface
 
-I am using GitHub as public proof of work: code, docs, implementation notes, and project maintenance all matter more than generic AI commentary.
+I use GitHub as public proof of technical work: code, docs, implementation notes, issue handling, review comments, and shipped open-source systems.
 
-The long-term content direction is simple:
+Other platforms can carry broader content, demos, and personal storytelling. This profile is intentionally narrower: it is for agent-native development, local AI tooling, and engineering evidence.
 
-```text
-intelligence -> useful content -> audience growth
-```
+## Working Style
+
+- I prefer tools that create inspectable files over tools that hide state behind a hosted interface.
+- I care about agent workflows that survive real repositories, review, deployment, and maintenance.
+- I treat design, engineering, and operations as one system when agents are part of the workflow.
 
 ## Contact
 
 - GitHub: [@alchemistklk](https://github.com/alchemistklk)
-- X / social: coming soon
-- Focus: agent-native tools, local AI workflows, open-source systems, and practical design automation
+- Focus: agent-native development, local AI workflows, open-source systems, and technical design automation
