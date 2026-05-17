@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-technical-editorial.svg" alt="Caprika - agent-native developer" width="100%" />
+  <img src="assets/caprica-brand-hero.png" alt="Caprica brand hero" width="100%" />
 </p>
 
 # Caprika
