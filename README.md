@@ -46,8 +46,7 @@ and operational boundaries.
 
 ## Caprika Agent Lab
 
-I am shaping **Caprika Agent Lab** as a proof-of-work collection for small,
-runnable AI product patterns.
+I am shaping **[Caprika Agent Lab](https://github.com/alchemistklk/caprika-agent-lab)** as a proof-of-work collection for small, runnable AI product patterns.
 
 The goal is to show the path from idea to product capability, not just the final
 screenshot.
